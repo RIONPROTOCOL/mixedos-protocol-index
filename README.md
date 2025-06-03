@@ -24,3 +24,6 @@ This is the modular infrastructure powering the Mixed OS operating system — a 
 ## 🔄 Update Log
 
 - [🛡️ June 3, 2025 – Vault Update](updates/2025-06-03-vault-update.md)
+- [🛡️ RION Enforcement Standard](enforcement/enforce-rion-standard.md)
+
+
