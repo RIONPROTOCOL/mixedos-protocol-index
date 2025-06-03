@@ -2,9 +2,7 @@
 
 This is the modular infrastructure powering the Mixed OS operating system — a sovereign framework for licensing, compliance, real estate automation, and tokenized access.
 
-## Core Protocol Modules
-
-- 🟢 **MIDOM Token** (Governance + Access): [https://github.com/RIONPROTOCOL/MIDOM-token](https://github.com/RIONPROTOCOL/MIDOM-token)
+🟢 MIDOM Token (Governance + Access): [MIDOM Licensing Index](MIDOM-token/index.md)
 - 🟡 **RION Licensing Framework**: [coming soon]
 - 🟢 **Tour App Logic**: [https://github.com/RIONPROTOCOL/tour-system](https://github.com/RIONPROTOCOL/tour-system)
 - 🔴 **Smart Escrow Protocol**: [in development]
@@ -25,5 +23,6 @@ This is the modular infrastructure powering the Mixed OS operating system — a 
 
 - [🛡️ June 3, 2025 – Vault Update](updates/2025-06-03-vault-update.md)
 - [🛡️ RION Enforcement Standard](enforcement/enforce-rion-standard.md)
+## Core Protocol Modules
 
 
