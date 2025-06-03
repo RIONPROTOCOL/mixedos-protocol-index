@@ -21,3 +21,6 @@ This is the modular infrastructure powering the Mixed OS operating system — a 
 - Protocol stack initialized: **June 2, 2025**
 - Owned by: **RION Foundation**
 - Powered by: **Mixed OS**
+## 🔄 Update Log
+
+- [🛡️ June 3, 2025 – Vault Update](updates/2025-06-03-vault-update.md)
